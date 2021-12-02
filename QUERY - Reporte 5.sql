@@ -9,7 +9,6 @@ DECLARE @time_init DATETIME2,
         @Misilec INT,
         @Msg VARCHAR (300)
 
-
 TRUNCATE TABLE Reporte.[05_Pacifico_evolucion_precios]
 
 BEGIN --MODA ESTABLECIMIENTOS
